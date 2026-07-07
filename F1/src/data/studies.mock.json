@@ -1,0 +1,452 @@
+[
+  {
+    "id": "study-001",
+    "title": "Effectiveness of Cognitive Behavioural Therapy for Adolescent Depression: A Randomised Controlled Trial",
+    "authors": ["Zhang, L.", "Okonkwo, A.", "Patel, R.", "Müller, H."],
+    "year": 2022,
+    "abstract": "Background: Adolescent depression represents a major public health concern. Cognitive behavioural therapy (CBT) has shown promise but large-scale RCT evidence remains limited. Methods: We randomised 312 adolescents aged 12–17 with a DSM-5 diagnosis of major depressive disorder to CBT (16 sessions over 20 weeks) or a waitlist control. Primary outcome was change in Children's Depression Rating Scale–Revised (CDRS-R) score at week 20. Secondary outcomes included remission rate, anxiety (SCARED), and functional impairment (CGAS). Results: Intent-to-treat analysis showed a mean CDRS-R reduction of 18.4 points (95% CI 14.2–22.6) in the CBT group versus 6.1 points (95% CI 2.9–9.3) in controls (p<0.001). Remission was achieved in 46% of CBT participants vs 18% of controls (NNT = 3.6). No serious adverse events attributed to treatment. Conclusion: CBT is effective and safe for adolescent MDD. Implementation at scale requires trained practitioners and appropriate health system support.",
+    "status": "undecided",
+    "doi": "10.1001/jamapsychiatry.2022.0312"
+  },
+  {
+    "id": "study-002",
+    "title": "Digital Health Interventions for Smoking Cessation in Low-Income Communities: A Systematic Review",
+    "authors": ["Fernandez, M.", "Adetokunbo, S.", "Chen, W."],
+    "year": 2023,
+    "abstract": "Background: Smoking cessation interventions delivered via smartphones may improve access in underserved populations. We systematically reviewed the effectiveness of app-based and SMS-based cessation programmes in low-income communities. Methods: We searched PubMed, Embase, and CENTRAL through December 2022. Eligible studies were RCTs or quasi-experimental designs targeting adults in low-income settings. Outcomes included 7-day point prevalence abstinence at 6 months. Results: 18 studies (n=6,842) met inclusion criteria. Pooled OR for abstinence was 1.72 (95% CI 1.38–2.14) versus minimal intervention. SMS-based programmes showed larger effects than app-only interventions (OR 1.98 vs 1.44). Heterogeneity was moderate (I²=52%). Publication bias was detected. Conclusion: Digital cessation tools are modestly effective in low-income settings. SMS interventions may be more accessible given lower smartphone penetration. More rigorous trials in LMICs are needed.",
+    "status": "undecided",
+    "doi": "10.1136/tobaccocontrol-2023-057821"
+  },
+  {
+    "id": "study-003",
+    "title": "Metformin Use and All-Cause Mortality in Patients with Type 2 Diabetes: A Population-Based Cohort Study",
+    "authors": ["Andersen, K.", "Sipho, N.", "Torres, G.", "Larsson, E."],
+    "year": 2021,
+    "abstract": "Objective: To evaluate the association between metformin use and all-cause mortality in a large, real-world population of patients with type 2 diabetes. Design: Retrospective cohort study using linked primary care and hospital records from the UK Biobank. Participants: 48,316 adults newly diagnosed with type 2 diabetes between 2006 and 2018. Exposure: Metformin initiation as first-line therapy. Main outcome: All-cause mortality over median follow-up of 7.4 years. Results: After multivariable adjustment, metformin use was associated with a 24% lower risk of all-cause mortality (HR 0.76, 95% CI 0.71–0.82). Subgroup analyses showed consistent effects across age, sex, and baseline eGFR. Conclusion: Metformin initiation is associated with lower mortality in type 2 diabetes in routine practice, consistent with trial evidence. Residual confounding cannot be excluded in this observational design.",
+    "status": "undecided",
+    "doi": "10.2337/dc21-0483"
+  },
+  {
+    "id": "study-004",
+    "title": "Physical Activity and Cognitive Decline in Older Adults: Meta-Analysis of Prospective Cohort Studies",
+    "authors": ["Osei, B.", "Kowalski, P.", "Ramírez, I.", "Watanabe, Y."],
+    "year": 2022,
+    "abstract": "Purpose: To quantify the association between leisure-time physical activity (LTPA) and cognitive decline in adults aged 60 and over. Data sources: We searched MEDLINE, Embase, and PsycINFO from inception to January 2022. Study selection: Prospective cohort studies with ≥3 years of follow-up and validated cognitive outcomes. Data synthesis: 27 studies (n=127,488) were included. High versus low LTPA was associated with 30% lower risk of cognitive decline (RR 0.70, 95% CI 0.62–0.79) and 25% lower incidence of dementia (RR 0.75, 95% CI 0.68–0.83). Both aerobic and mixed-mode exercise showed benefits. Dose-response analysis suggested benefit plateauing around 150 min/week of moderate activity. Conclusions: Regular physical activity is associated with substantially reduced risk of cognitive decline. Guidelines recommending 150 min/week are consistent with optimal cognitive benefit.",
+    "status": "undecided",
+    "doi": "10.1016/j.jagp.2022.01.205"
+  },
+  {
+    "id": "study-005",
+    "title": "Effect of Mindfulness-Based Stress Reduction on Burnout Among Hospital Nurses: A Cluster RCT",
+    "authors": ["Mbeki, T.", "Svensson, A.", "Gupta, P.", "O'Brien, C."],
+    "year": 2023,
+    "abstract": "Background: Nurse burnout is a global problem linked to staff turnover and adverse patient outcomes. Mindfulness-based stress reduction (MBSR) may reduce burnout. Methods: Cluster randomised controlled trial in 24 hospital wards (n=412 nurses). Intervention: 8-week MBSR programme delivered in groups. Control: usual care. Primary outcome: Maslach Burnout Inventory emotional exhaustion subscale at 3 months. Secondary: depersonalisation, personal accomplishment, absenteeism. Results: Mean reduction in emotional exhaustion was 6.8 points (95% CI 4.1–9.5) in the MBSR group versus 1.2 points (95% CI −0.6–3.0) in controls. No difference in absenteeism. Attrition was 14% in the intervention arm. Conclusion: MBSR significantly reduces emotional exhaustion in nurses. Programme delivery at scale requires institutional commitment and protected time.",
+    "status": "undecided",
+    "doi": "10.1097/NNR.0000000000000612"
+  },
+  {
+    "id": "study-006",
+    "title": "Iron Supplementation in Pregnant Women with Non-Anaemic Iron Deficiency: RCT Evidence",
+    "authors": ["Diallo, A.", "Johansson, L.", "Kumar, S.", "Abebe, D."],
+    "year": 2020,
+    "abstract": "Background: Non-anaemic iron deficiency (NAID) in pregnancy is common yet management remains debated. We conducted an RCT to assess the impact of supplementation on maternal and neonatal outcomes. Methods: 340 pregnant women (20–28 weeks gestation) with serum ferritin <20 μg/L and Hb ≥110 g/L were randomised to oral ferrous sulphate 200 mg/day or placebo for 12 weeks. Outcomes: maternal Hb, ferritin, birthweight, preterm birth, and postpartum depression. Results: Ferritin levels improved significantly in the treatment group (+34 μg/L vs +2 μg/L; p<0.001). Hb did not differ at term. Birthweight was marginally higher in the treatment group (3,380 g vs 3,291 g; p=0.049). Preterm birth rates did not differ. Conclusion: Iron supplementation improves iron stores in NAID without clear impact on most neonatal outcomes. Further studies are needed.",
+    "status": "undecided",
+    "doi": "10.1093/ajcn/nqaa211"
+  },
+  {
+    "id": "study-007",
+    "title": "Long-COVID Symptom Trajectories in a General Population Cohort: 18-Month Follow-Up",
+    "authors": ["Park, J.", "Mensah, E.", "Ricci, F.", "Thornton, L."],
+    "year": 2023,
+    "abstract": "Background: The natural history of long-COVID remains poorly characterised in population-based samples. We describe 18-month symptom trajectories following SARS-CoV-2 infection. Methods: Prospective cohort of 3,241 adults with confirmed COVID-19 (community-acquired) recruited from a national surveillance programme. Symptoms assessed monthly via validated questionnaire. Latent class growth analysis used to identify trajectory classes. Results: Four trajectory classes were identified: rapid recovery (52%), persistent fatigue-dominant (24%), fluctuating multi-symptom (16%), and progressive worsening (8%). Female sex, older age, and hospitalisation were associated with non-recovery classes. Vaccination (≥2 doses) prior to infection was associated with lower odds of persistent class membership (OR 0.58, 95% CI 0.44–0.77). Conclusion: Long-COVID is heterogeneous. Vaccination appears partially protective. Sustained follow-up and targeted interventions for high-risk groups are warranted.",
+    "status": "undecided",
+    "doi": "10.1038/s41591-023-02399-z"
+  },
+  {
+    "id": "study-008",
+    "title": "Telemedicine vs In-Person Physiotherapy for Chronic Low Back Pain: Equivalence Trial",
+    "authors": ["Nakamura, T.", "Costa, R.", "Ibrahim, H.", "Lindqvist, M."],
+    "year": 2022,
+    "abstract": "Objective: To determine whether telemedicine-delivered physiotherapy is equivalent to in-person care for chronic low back pain (CLBP). Design: Non-inferiority randomised trial. Setting: Outpatient physiotherapy clinics in four countries. Participants: 488 adults with CLBP (>3 months, NRS ≥4). Intervention: 8-session physiotherapy programme delivered via videoconference or face-to-face. Primary outcome: NRS pain intensity at 3 months (non-inferiority margin: 1.0 point). Results: Mean NRS change was −2.4 points in both groups (95% CI of difference: −0.4 to 0.4), within the non-inferiority margin. Patient satisfaction was slightly higher in the in-person group. Conclusion: Telemedicine physiotherapy is non-inferior to in-person care for CLBP and may improve access. Hybrid models should be explored.",
+    "status": "undecided",
+    "doi": "10.1136/bjsports-2022-105391"
+  },
+  {
+    "id": "study-009",
+    "title": "School-Based Nutrition Education and Childhood Obesity: A Systematic Review and Meta-Analysis",
+    "authors": ["Okafor, U.", "Bergström, C.", "Al-Rashid, N.", "Ferreira, P."],
+    "year": 2021,
+    "abstract": "Context: School-based nutrition programmes are widely implemented but evidence of effectiveness on obesity outcomes is mixed. Methods: We identified RCTs and CCTs in school-aged children (5–18 years) with BMI or body fat percentage as primary outcomes. 34 studies met inclusion criteria (n=28,430). Results: Pooled effect on BMI z-score: −0.11 (95% CI −0.19 to −0.04), statistically significant but modest. Effects were larger in primary school children and in programmes incorporating parent involvement. Behavioural outcomes (fruit/vegetable intake) showed stronger effects than anthropometric ones. Conclusions: School nutrition education has small positive effects on obesity-related outcomes. Integration with family and community components enhances effectiveness. Policy investment should accompany programme implementation.",
+    "status": "undecided",
+    "doi": "10.1542/peds.2021-050526"
+  },
+  {
+    "id": "study-010",
+    "title": "Automated Insulin Delivery Systems in Type 1 Diabetes: Real-World Registry Data",
+    "authors": ["Sørensen, H.", "Baptiste, M.", "Yamamoto, K.", "Bello, A."],
+    "year": 2023,
+    "abstract": "Introduction: Automated insulin delivery (AID) systems are increasingly used in type 1 diabetes but real-world data on long-term glycaemic outcomes are limited. Methods: Analysis of 12-month registry data from 5,842 patients with T1D who initiated AID systems across 14 countries. Primary outcome: change in HbA1c. Secondary: time-in-range (TIR), hypoglycaemia frequency, quality of life. Results: Mean HbA1c decreased from 7.8% (62 mmol/mol) at baseline to 7.2% (55 mmol/mol) at 12 months (p<0.001). TIR increased from 58% to 71%. Nocturnal hypoglycaemia decreased by 40%. Improvements were consistent across age groups and prior glycaemic control levels. Conclusion: AID systems are associated with meaningful glycaemic improvement in real-world practice. Equity of access remains a concern.",
+    "status": "undecided",
+    "doi": "10.2337/dc23-1087"
+  },
+  {
+    "id": "study-011",
+    "title": "Peer Support Interventions for Adults with Serious Mental Illness: A Cochrane Review",
+    "authors": ["Walters, G.", "Nkemdirim, F.", "Hadzic, E.", "Sundaram, V."],
+    "year": 2022,
+    "abstract": "Background: Peer support workers (PSWs) with lived experience of mental illness are employed across mental health systems but evidence for their effectiveness is uncertain. Objectives: To assess the effects of peer support interventions on outcomes for adults with serious mental illness. Search methods: Cochrane systematic review with searches in MEDLINE, PsycINFO, EMBASE, and CENTRAL. Main results: 23 RCTs (n=4,219) were included. Peer support showed small positive effects on self-reported recovery (SMD 0.25, 95% CI 0.09–0.41) and social inclusion (SMD 0.18, 95% CI 0.02–0.34) but no significant effect on hospitalisation rates or symptom severity. Evidence quality was mostly low or very low. Authors' conclusions: Peer support may improve recovery-related outcomes but evidence is weak. Higher-quality trials with active comparators are needed.",
+    "status": "undecided",
+    "doi": "10.1002/14651858.CD011096.pub3"
+  },
+  {
+    "id": "study-012",
+    "title": "Mediterranean Diet Adherence and Cardiovascular Events: A 10-Year Prospective Study",
+    "authors": ["Giannakos, A.", "Ekwueme, C.", "Pettersson, L.", "Aziz, R."],
+    "year": 2020,
+    "abstract": "Purpose: The Mediterranean diet has been associated with cardiovascular benefit in European populations; evidence in other regions is limited. Design: Population-based cohort study, 10-year follow-up. Participants: 22,481 adults aged 35–74 from Brazil, Nigeria, and India enrolled in the Global Cardiovascular Risk Cohort. Exposure: Mediterranean Diet Score (MDS) assessed at baseline. Outcome: Major adverse cardiovascular events (MACE: MI, stroke, CV death). Results: Highest vs lowest MDS tertile: HR for MACE 0.81 (95% CI 0.74–0.89) after adjustment. Associations were strongest in Brazil and weakest in Nigeria (possibly reflecting baseline diet patterns). Conclusion: Mediterranean diet adherence is associated with lower MACE risk in diverse global populations, though absolute risk reduction varies by baseline dietary context.",
+    "status": "undecided",
+    "doi": "10.1093/eurheartj/ehaa562"
+  },
+  {
+    "id": "study-013",
+    "title": "Community Health Worker Programmes for Hypertension Control in Sub-Saharan Africa: Systematic Review",
+    "authors": ["Osei-Mensah, K.", "Dlamini, N.", "Barrientos, L.", "Eriksson, P."],
+    "year": 2023,
+    "abstract": "Background: Hypertension is the leading cardiovascular risk factor in sub-Saharan Africa and control rates are <15%. Community health worker (CHW) programmes may bridge the treatment gap. Methods: Systematic review of CHW interventions for hypertension in SSA (PubMed, Embase, AJOL). Outcomes: blood pressure control (<140/90 mmHg), adherence, antihypertensive initiation. Results: 16 studies (10 RCTs) were included. CHW interventions significantly improved BP control (OR 2.12, 95% CI 1.68–2.67) and medication adherence. Effect sizes were larger in urban than rural settings. Most programmes were pilot studies with <200 participants and short follow-up (<12 months). Conclusions: CHW-led hypertension programmes show promising results. Scale-up requires sustainable financing and integration into national health systems.",
+    "status": "undecided",
+    "doi": "10.1136/bmjgh-2023-012387"
+  },
+  {
+    "id": "study-014",
+    "title": "Antenatal Depression and Adverse Birth Outcomes: A Multi-Country Cohort Study",
+    "authors": ["Mensah, P.", "Johansson, A.", "Siddiqui, T.", "Kamau, N."],
+    "year": 2021,
+    "abstract": "Background: Antenatal depression affects an estimated 12% of pregnant women globally and is associated with adverse birth outcomes. Multi-country evidence is scarce. Methods: Individual-participant data meta-analysis using cohorts from Kenya, Bangladesh, Peru, and the UK (n=18,430). Edinburgh Postnatal Depression Scale ≥13 defined probable depression. Outcomes: preterm birth, low birthweight, perinatal mortality. Results: Antenatal depression was associated with increased odds of preterm birth (aOR 1.42, 95% CI 1.23–1.64) and low birthweight (aOR 1.38, 95% CI 1.19–1.59). Effects were consistent across countries. Perinatal mortality showed a non-significant trend. Conclusion: Antenatal depression is associated with adverse birth outcomes across diverse settings. Integrated mental health screening in antenatal care is warranted.",
+    "status": "undecided",
+    "doi": "10.1016/S2214-109X(21)00495-2"
+  },
+  {
+    "id": "study-015",
+    "title": "Effect of Vitamin D Supplementation on Respiratory Tract Infections: Individual Patient Data Meta-Analysis",
+    "authors": ["Martineau, A.", "Bouillon, R.", "Forouhi, N.", "Bergman, P."],
+    "year": 2021,
+    "abstract": "Background: Vitamin D deficiency is associated with susceptibility to respiratory infections. Trials of supplementation have shown inconsistent results. We conducted an IPD meta-analysis to identify subgroups who benefit. Methods: 25 RCTs (n=11,321) provided individual patient data. Primary outcome: proportion with ≥1 acute respiratory tract infection. Results: Supplementation significantly reduced infection risk overall (aOR 0.88, 95% CI 0.81–0.96). The largest benefit was in those with baseline 25-hydroxyvitamin D <25 nmol/L (aOR 0.70, 95% CI 0.55–0.89). Daily or weekly dosing was more effective than bolus dosing. Conclusion: Vitamin D supplementation reduces respiratory infection risk, particularly in those with deficiency. Bolus dosing should be avoided.",
+    "status": "undecided",
+    "doi": "10.1136/bmj.m4585"
+  },
+  {
+    "id": "study-016",
+    "title": "Social Prescribing and Mental Health Outcomes in Primary Care: A Pragmatic RCT",
+    "authors": ["Kimura, S.", "Adeyemi, T.", "Bernstein, H.", "Skov, L."],
+    "year": 2022,
+    "abstract": "Background: Social prescribing (SP) — linking patients with non-clinical community resources — is increasingly embedded in UK primary care. RCT evidence for mental health outcomes is limited. Methods: Pragmatic RCT in 42 GP practices (n=1,824 adults with mild-to-moderate depression or anxiety). SP co-ordinator vs usual care for 6 months. Primary outcome: GAD-7 + PHQ-9 composite at 6 months. Results: No significant difference in the primary composite (MD −0.4, 95% CI −1.1 to 0.3). Significant improvements in social connectedness and self-reported wellbeing (WHO-5). Patients with high social isolation benefited more. Conclusion: SP does not significantly reduce clinical anxiety/depression symptoms but improves wellbeing and social outcomes. Targeting socially isolated patients may improve cost-effectiveness.",
+    "status": "undecided",
+    "doi": "10.3399/BJGP.2022.0062"
+  },
+  {
+    "id": "study-017",
+    "title": "Ketamine for Treatment-Resistant Depression: A Network Meta-Analysis",
+    "authors": ["Hashimoto, K.", "Oguntade, A.", "Simonsen, E.", "Vickers, R."],
+    "year": 2023,
+    "abstract": "Objective: Ketamine and esketamine are used for treatment-resistant depression (TRD) but comparative evidence is limited. We conducted a network meta-analysis to compare ketamine formulations and routes of administration. Methods: NMA of 38 RCTs (n=2,891) comparing IV ketamine, intranasal esketamine, oral ketamine, and placebo/active controls in TRD. Primary outcome: response at 24 hours and 7 days. Results: All ketamine formulations showed superior response to placebo at 24h. IV ketamine had highest response at 24h (OR 7.4, 95% CrI 4.1–13.8). Esketamine maintained effect to 7 days (OR 3.1, 95% CrI 1.8–5.4). Oral ketamine was least efficacious. Dissociative side effects were most common with IV route. Conclusion: IV ketamine produces rapid antidepressant effects. Intranasal esketamine offers more durable benefits. Patient-specific factors should guide route selection.",
+    "status": "undecided",
+    "doi": "10.1016/j.lanepe.2023.100666"
+  },
+  {
+    "id": "study-018",
+    "title": "Machine Learning for Early Sepsis Detection in ICU Patients: Prospective Validation Study",
+    "authors": ["Liu, X.", "Okonkwo, M.", "Fonseca, R.", "Björk, A."],
+    "year": 2022,
+    "abstract": "Background: Early sepsis detection could reduce ICU mortality. Machine learning (ML) models offer potential advantages over existing scores (SOFA, NEWS). Methods: Prospective validation of an XGBoost model trained on EHR data in a derivation cohort (n=28,310 ICU admissions). Validated in two external hospitals. Primary outcome: sepsis onset within 6 hours (Sepsis-3 criteria). Results: AUROC 0.82 (95% CI 0.79–0.85) vs SOFA AUROC 0.74 (p<0.001). Sensitivity at 80% specificity: 67% (ML) vs 54% (SOFA). Positive predictive value was lower in hospitals with lower sepsis prevalence. Conclusion: ML-based sepsis detection outperforms SOFA on external validation but PPV is setting-dependent. Prospective implementation trials are needed before routine clinical use.",
+    "status": "undecided",
+    "doi": "10.1097/CCM.0000000000005586"
+  },
+  {
+    "id": "study-019",
+    "title": "Universal School Mental Health Screening: Yield, Harms, and Resource Implications",
+    "authors": ["Adewale, B.", "Eriksen, M.", "Chaudhry, P.", "Schmidt, H."],
+    "year": 2021,
+    "abstract": "Background: Universal mental health screening in schools is advocated as a strategy for early identification. Evidence on yield and harms (overdiagnosis, stigma) is limited. Methods: Cross-sectional screening of 6,211 children aged 9–16 using SDQ and DAWBA instruments, with clinician gold-standard assessment in positive screens. Results: Positive screen rate: 18.4%. Prevalence of disorder by clinician assessment: 9.2%. Positive predictive value: 52%. Stigma outcomes assessed in 1,200 participants: no increase in peer-reported stigma at 3 months. Mean wait time from positive screen to clinical assessment: 4.2 months. Conclusion: Universal screening identifies real cases but has limited PPV and delays care access. Resources for follow-up assessment must accompany screening programmes.",
+    "status": "undecided",
+    "doi": "10.1016/j.jaac.2021.03.022"
+  },
+  {
+    "id": "study-020",
+    "title": "Green Prescribing for Depression and Anxiety: Multi-Site Feasibility RCT",
+    "authors": ["Tomlinson, R.", "Musa, A.", "Nygaard, K.", "Pereira, L."],
+    "year": 2022,
+    "abstract": "Objective: To assess the feasibility and preliminary efficacy of 'green prescribing' (structured nature-based activities prescribed via primary care) for depression and anxiety. Methods: Multi-site feasibility RCT; 180 adults with PHQ-9 ≥10 or GAD-7 ≥8 randomised to 10-week green prescribing programme or enhanced usual care. Primary feasibility outcome: retention at 10 weeks. Primary clinical outcomes: PHQ-9, GAD-7. Results: Retention was 76% in the green prescribing arm. PHQ-9 reduced by 4.6 points in the intervention vs 2.8 in control (Cohen's d = 0.41). GAD-7 showed similar trends. Adverse events were minor (mostly musculoskeletal). Conclusions: Green prescribing is feasible and shows preliminary efficacy. A fully powered trial is warranted and is underway.",
+    "status": "undecided",
+    "doi": "10.1186/s12888-022-04200-3"
+  },
+  {
+    "id": "study-021",
+    "title": "mHealth Interventions for HIV Medication Adherence in East Africa: Systematic Review",
+    "authors": ["Otieno, A.", "Swanson, K.", "Balogun, T.", "Petrov, D."],
+    "year": 2020,
+    "abstract": "Background: Antiretroviral therapy (ART) adherence is critical for HIV control in East Africa. Mobile health (mHealth) strategies including SMS and app-based reminders are increasingly deployed. Methods: We searched regional and international databases for mHealth adherence interventions in East African HIV populations. Results: 14 studies met inclusion criteria. SMS reminder programmes improved adherence by 12–18 percentage points over standard care. Peer-generated content (patient testimonials via WhatsApp) showed higher engagement. Effect sustainability beyond 6 months was rarely reported. Conclusion: mHealth can meaningfully improve ART adherence. Long-term sustainability data and implementation in rural areas remain gaps.",
+    "status": "undecided",
+    "doi": "10.1097/QAI.0000000000002310"
+  },
+  {
+    "id": "study-022",
+    "title": "Duration of Untreated Psychosis and Long-Term Outcomes: A 20-Year Retrospective Cohort",
+    "authors": ["Nordentoft, M.", "Akindele, F.", "Petersen, J.", "Larsen, T."],
+    "year": 2023,
+    "abstract": "Background: Duration of untreated psychosis (DUP) is a modifiable predictor of outcome in first-episode psychosis. We examined DUP and 20-year outcomes in a national register-based cohort. Methods: All individuals with first-episode psychosis in Denmark 2000–2005 (n=8,941), linked to national registers for mortality, employment, and hospitalisation through 2023. Results: Median DUP was 20 weeks. Longer DUP was independently associated with higher 20-year mortality (HR 1.14 per 6-month increment, 95% CI 1.09–1.20) and lower sustained employment rates. Early intervention services were associated with shorter DUP (median 10 vs 26 weeks). Conclusion: DUP remains strongly prognostic at 20 years. National early detection programmes are associated with reduced DUP. Investment in early intervention infrastructure is warranted.",
+    "status": "undecided",
+    "doi": "10.1001/jamapsychiatry.2023.1824"
+  },
+  {
+    "id": "study-023",
+    "title": "Breastfeeding Duration and Childhood Asthma: A Sibling-Comparison Study",
+    "authors": ["Hartmann, L.", "Obafemi, K.", "Reyes, C.", "Salminen, A."],
+    "year": 2021,
+    "abstract": "Background: Breastfeeding has been associated with reduced childhood asthma risk in observational studies, but unmeasured family-level confounding is a concern. Methods: Sibling-comparison cohort study using Swedish Medical Birth Register data (n=112,840 sibling pairs born 1997–2012). Within-family comparison of breastfeeding duration (exclusive, mixed, none) and doctor-diagnosed asthma by age 10. Results: In sibling-adjusted models, the protective association between breastfeeding and asthma was attenuated (aOR 0.98, 95% CI 0.91–1.06) compared to population-level estimates (aOR 0.82). Between-family socioeconomic confounding explained most of the apparent association. Conclusion: The breastfeeding–asthma association is largely confounded by family-level factors. Breastfeeding may not be causally protective against childhood asthma.",
+    "status": "undecided",
+    "doi": "10.1136/bmj-2021-067187"
+  },
+  {
+    "id": "study-024",
+    "title": "Artificial Intelligence for Diabetic Retinopathy Screening: Real-World Accuracy and Equity",
+    "authors": ["Raveendran, S.", "Osei-Tutu, K.", "Fujimoto, R.", "Haidari, L."],
+    "year": 2023,
+    "abstract": "Purpose: AI-based diabetic retinopathy (DR) screening has demonstrated high accuracy in clinical trials. We evaluated real-world performance and demographic equity across a national diabetic eye screening programme. Methods: Retrospective analysis of 248,390 retinal images from 84,312 adults with diabetes across England. AI algorithm (IDx-DR) output compared to grader decisions. Performance stratified by age, sex, and ethnicity. Results: Overall sensitivity 88.4%, specificity 92.1%. Sensitivity was significantly lower in Asian (84.2%) and Black (83.8%) patients compared to White patients (90.1%). Image quality failure rate was higher in older patients. Conclusion: Real-world AI DR screening performs below trial benchmarks and shows demographic performance gaps. Equity audits should be routine for deployed AI systems.",
+    "status": "undecided",
+    "doi": "10.1016/j.eclinm.2023.102013"
+  },
+  {
+    "id": "study-025",
+    "title": "Motivational Interviewing for Alcohol Use Disorder in Emergency Settings: A Multi-Centre RCT",
+    "authors": ["Nwachukwu, E.", "Lindberg, M.", "Patel, A.", "Gomes, F."],
+    "year": 2022,
+    "abstract": "Objective: To evaluate brief motivational interviewing (BMI) for alcohol use disorder (AUD) initiated in emergency departments. Methods: Multi-centre RCT (18 EDs, n=1,942 adults with AUDIT score ≥16). BMI (2×30 min sessions + follow-up call) vs standard ED care. Primary outcome: AUDIT score at 6 months. Secondary: alcohol-related ED revisits, quality of life. Results: BMI significantly reduced AUDIT score (−3.8 vs −1.4; MD −2.4, 95% CI −3.1 to −1.7). Alcohol-related ED revisits were reduced by 22% (IRR 0.78, 95% CI 0.63–0.96). No difference in quality of life. Conclusion: Brief MI initiated in the ED is effective for reducing hazardous drinking. Implementation training for ED staff is the primary barrier to scale.",
+    "status": "undecided",
+    "doi": "10.1111/acer.14958"
+  },
+  {
+    "id": "study-026",
+    "title": "Genomic Risk Scores for Coronary Artery Disease: Clinical Utility Beyond Traditional Risk Factors",
+    "authors": ["Shah, S.", "Amoako-Kwakye, A.", "Hedman, Å.", "Nicholson, G."],
+    "year": 2021,
+    "abstract": "Background: Polygenic risk scores (PRS) for coronary artery disease (CAD) can capture genetic risk not reflected in traditional risk factors. We assessed clinical utility of PRS added to the Framingham Risk Score (FRS). Methods: Prospective cohort analysis (UK Biobank, n=411,254). PRS derived from 6.6 million SNPs. Outcome: CAD events over median 11-year follow-up. Results: Adding PRS to FRS significantly improved C-statistic (0.81 vs 0.79; p<0.001). Net reclassification index: 8.4%. Individuals in the highest PRS decile had 3.6-fold excess risk vs the lowest decile. Benefit was consistent across ancestry groups (though PRS was derived predominantly from European datasets). Conclusion: PRS improves CAD risk stratification beyond standard models. Transferability across ancestries is a current limitation that requires diverse training datasets.",
+    "status": "undecided",
+    "doi": "10.1016/j.jacc.2021.04.068"
+  },
+  {
+    "id": "study-027",
+    "title": "Integrated Care Models for Older Adults with Multimorbidity: A Comparative Effectiveness Review",
+    "authors": ["Anand, T.", "Koffi, B.", "Persson, H.", "Westbrook, J."],
+    "year": 2022,
+    "abstract": "Background: Multimorbidity affects 60% of adults over 65 and leads to fragmented care and high costs. Integrated care models aim to address this but comparative evidence is limited. Methods: Comparative effectiveness review; 41 studies (29 RCTs) in adults ≥60 with ≥2 chronic conditions. Outcomes: hospitalisation, quality of life, patient experience, cost. Results: Integrated care significantly reduced unplanned hospitalisations (IRR 0.82, 95% CI 0.74–0.90) and improved patient-reported experience. Quality of life effects were heterogeneous (SMD −0.01 to +0.38). Costs were equivalent or lower in 18/23 cost-reporting studies. Components most strongly associated with effectiveness: coordinated case management and shared care plans. Conclusion: Integrated care models reduce hospitalisation and are cost-neutral. Fidelity to key components is essential for effectiveness.",
+    "status": "undecided",
+    "doi": "10.1136/bmjopen-2022-060564"
+  },
+  {
+    "id": "study-028",
+    "title": "Sleep Deprivation and Metabolic Syndrome in Healthcare Workers: A Cross-Sectional Analysis",
+    "authors": ["Park, Y.", "Kamara, S.", "Olofsson, P.", "Dey, S."],
+    "year": 2020,
+    "abstract": "Background: Shift work and sleep deprivation are prevalent in healthcare workers and may contribute to cardiometabolic risk. Methods: Cross-sectional survey of 4,218 healthcare workers (nurses, physicians, allied health) across 18 hospitals in three countries. Sleep duration assessed by validated actigraphy and self-report. Metabolic syndrome defined per IDF criteria. Results: Prevalence of metabolic syndrome was 28.4% in those sleeping <6h vs 14.2% in those sleeping ≥7h (OR 2.12, 95% CI 1.76–2.54 adjusted). Association was stronger in night-shift workers. BMI and physical inactivity partially mediated the relationship. Conclusion: Sleep deprivation is associated with doubled odds of metabolic syndrome in healthcare workers. Occupational interventions targeting shift schedules and sleep hygiene are warranted.",
+    "status": "undecided",
+    "doi": "10.5664/jcsm.8710"
+  },
+  {
+    "id": "study-029",
+    "title": "Precision Nutrition Trials: Personalised Dietary Advice Based on Continuous Glucose Monitoring",
+    "authors": ["Zeevi, D.", "Kolber, N.", "Sonnenschein-Kohler, P.", "Goodrich, J."],
+    "year": 2022,
+    "abstract": "Objective: Individualised dietary recommendations based on postprandial glucose response (PPGR) profiles may outperform generic dietary guidelines. We tested this in a pragmatic RCT. Methods: 328 adults without diabetes were randomised to personalised dietary advice (based on 2-week continuous glucose monitoring + ML prediction model) or standard healthy eating guidelines for 12 weeks. Primary outcome: 2-hour postprandial glucose AUC. Secondary: HbA1c, BMI, microbiome diversity. Results: Personalised advice significantly reduced PPGR AUC (−18%, 95% CI −24% to −12%) vs standard advice (−6%, 95% CI −10% to −2%). No difference in HbA1c or BMI at 12 weeks. Microbiome diversity increased in both groups. Conclusion: Personalised dietary advice based on CGM reduces postprandial glucose more than standard advice. Longer trials are needed to assess metabolic benefits.",
+    "status": "undecided",
+    "doi": "10.1016/j.cell.2022.01.024"
+  },
+  {
+    "id": "study-030",
+    "title": "Palliative Care Integration in Oncology: Impact on End-of-Life Quality and Healthcare Use",
+    "authors": ["Ferris, F.", "Abiodun, R.", "Söderqvist, M.", "Das, A."],
+    "year": 2021,
+    "abstract": "Background: Early palliative care integration in oncology settings has been shown to improve quality of life and may reduce aggressive end-of-life care. Methods: Systematic review and meta-analysis (29 RCTs, n=5,892 patients with advanced cancer). Primary outcomes: HRQOL, symptom burden, place of death. Secondary: EOL hospital utilisation and cost. Results: Early palliative care improved HRQOL (SMD 0.31, 95% CI 0.18–0.44) and reduced symptom burden. ICU admission in last 30 days was reduced (OR 0.62, 95% CI 0.47–0.82). Home or hospice death was more common (OR 1.54, 95% CI 1.21–1.96). Mean cost savings: $4,200 per patient in final 6 months. Conclusion: Early palliative care improves outcomes and reduces costs. Systematic oncology-palliative care integration models should be standard practice.",
+    "status": "undecided",
+    "doi": "10.1200/JCO.21.01116"
+  },
+  {
+    "id": "study-031",
+    "title": "Risk Factors for Neonatal Sepsis in Sub-Saharan Africa: A Case-Control Study",
+    "authors": ["Ampofo, K.", "Nakigozi, G.", "Ndiaye, M.", "Edwards, P."],
+    "year": 2020,
+    "abstract": "Background: Neonatal sepsis accounts for 13% of neonatal deaths globally, with disproportionate burden in sub-Saharan Africa. We investigated risk factors in a multi-country case-control study. Methods: 1,240 culture-confirmed neonatal sepsis cases and 2,480 controls from NICU settings in Uganda, Senegal, and South Africa. Logistic regression with multiple imputation for missing data. Results: Gram-negative pathogens predominated (64%). Key risk factors: birth weight <1.5kg (aOR 4.2), prolonged rupture of membranes (aOR 3.1), no antenatal care (aOR 2.4), and maternal GBS colonisation (aOR 2.8). Hospital-acquired sepsis was associated with invasive device use (aOR 5.6). Conclusion: Preventable risk factors are dominant. Targeted interventions for low-birth-weight neonates and improvements in antenatal care coverage could substantially reduce sepsis burden.",
+    "status": "undecided",
+    "doi": "10.1086/711699"
+  },
+  {
+    "id": "study-032",
+    "title": "Effect of Air Pollution Reduction Policies on Childhood Lung Function: Natural Experiment",
+    "authors": ["Gauderman, W.", "Ikechukwu, F.", "Molnár, P.", "Cakmak, S."],
+    "year": 2022,
+    "abstract": "Background: Traffic-related air pollution (TRAP) impairs childhood lung development. Policy-driven reductions in TRAP provide natural experiments to test reversibility. Methods: Longitudinal cohort of 3,041 children in Southern California followed over 15 years coinciding with implementation of California's Goods Movement Emission Reduction program (2009–2014). Lung function measured annually via spirometry. Results: PM2.5 declined from 22.3 to 12.8 μg/m³ post-policy. Children in the highest pollution-reduction areas gained significantly more FVC and FEV1 over follow-up. The lung function deficit attributable to TRAP narrowed from 4.1% to 1.9%. Effect was largest in children who started in highest-pollution zones. Conclusion: Regulatory reduction in air pollution is associated with improved childhood lung function. Environmental health policies have measurable health benefits.",
+    "status": "undecided",
+    "doi": "10.1056/NEJMoa2204594"
+  },
+  {
+    "id": "study-033",
+    "title": "Impact of COVID-19 Pandemic on Elective Surgery Waiting Times and Outcomes: A National Registry Analysis",
+    "authors": ["Fraser, A.", "Oduya, O.", "Magnusson, E.", "McAllister, R."],
+    "year": 2023,
+    "abstract": "Background: The COVID-19 pandemic caused widespread elective surgery cancellations, creating backlogs that may worsen patient outcomes. We quantified the impact on waiting times and outcomes for five elective procedures. Methods: Analysis of national surgical registry data (England) for hip/knee replacement, cataract surgery, tonsillectomy, cholecystectomy, and hernia repair. Periods: pre-pandemic (2017–2019) vs pandemic (2020–2022). Outcomes: waiting time, complication rate, deterioration while waiting. Results: Median wait increased from 9 to 23 weeks overall. Complication rate in finally-treated patients increased by 18%. Deterioration while waiting was most common for cholecystectomy (17% emergency conversion). Conclusion: Pandemic-related backlogs are causing demonstrable harm. Investment in targeted recovery programmes with prioritisation by clinical urgency is required.",
+    "status": "undecided",
+    "doi": "10.1136/bmjopen-2023-071948"
+  },
+  {
+    "id": "study-034",
+    "title": "Behavioural Activation vs Antidepressants for Primary Care Depression: A Non-Inferiority RCT",
+    "authors": ["Richards, D.", "Ogundipe, A.", "Elfström, M.", "Watts, S."],
+    "year": 2021,
+    "abstract": "Background: Behavioural activation (BA) is a brief, accessible psychological treatment for depression. We tested whether BA is non-inferior to antidepressant medication in primary care. Methods: Non-inferiority RCT, 440 adults with DSM-5 major depression recruited from 34 UK general practices. BA (10 sessions over 16 weeks) vs escitalopram 10–20mg. Primary outcome: PHQ-9 score at 12 months. Non-inferiority margin: 1.9 PHQ-9 points. Results: PHQ-9 difference at 12 months: −0.1 (95% CI −1.0 to 0.9), within the non-inferiority margin. Remission rates: 42% BA vs 44% antidepressant. Fewer adverse effects in BA arm. Conclusion: BA is non-inferior to escitalopram for primary care depression. Patients may prefer a non-pharmacological option and BA is suitable for delivery by non-specialist workers.",
+    "status": "undecided",
+    "doi": "10.1016/S0140-6736(21)01741-2"
+  },
+  {
+    "id": "study-035",
+    "title": "Vaccine Hesitancy Among Healthcare Workers: A Multinational Survey",
+    "authors": ["Lazarus, J.", "Suarez, M.", "Ekwueme, E.", "Vandenberg, O."],
+    "year": 2022,
+    "abstract": "Background: Healthcare worker (HCW) vaccine hesitancy undermines immunisation programmes and patient trust. We measured hesitancy rates and determinants across 23 countries. Methods: Cross-sectional survey of 15,483 HCWs in Africa, Asia, Europe, and the Americas. Validated hesitancy scale (WHO-SAGE) administered in 2021. Results: Overall hesitancy prevalence: 22%. Highest rates in DRC (47%) and lowest in Australia (8%). Key determinants: distrust of pharmaceutical companies (OR 3.4), perceived vaccine risk (OR 2.9), low vaccine self-efficacy (OR 2.1). Social media as primary information source was associated with higher hesitancy (OR 1.8). Conclusion: HCW hesitancy is widespread and socially patterned. Targeted communication and institutional trust-building are needed, particularly in high-burden settings.",
+    "status": "undecided",
+    "doi": "10.1016/S0264-410X(22)00280-6"
+  },
+  {
+    "id": "study-036",
+    "title": "Cognitive Rehabilitation for Mild Cognitive Impairment: A 2-Year RCT with MRI Biomarker Outcomes",
+    "authors": ["Belleville, S.", "Adamu, F.", "Johansson, P.", "Bhatt, R."],
+    "year": 2022,
+    "abstract": "Objective: To assess whether cognitive rehabilitation (CR) delays conversion from mild cognitive impairment (MCI) to dementia and reduces biomarker progression. Design: Two-year, double-blind RCT. Participants: 256 adults with amnestic MCI (CDR 0.5). Intervention: CR (multi-component: cognitive training, physical exercise, social engagement) vs active control. Primary outcomes: conversion to dementia, neuropsychological battery. Biomarker outcomes: hippocampal volume, CSF amyloid-beta/tau. Results: Conversion rate: 12% CR vs 22% control (HR 0.52, 95% CI 0.31–0.87). CR showed significantly better performance on delayed recall and executive function. Hippocampal atrophy was slowed in CR group. CSF biomarkers did not differ. Conclusion: Multi-component CR significantly delays dementia conversion and slows hippocampal atrophy. These findings support CR as a disease-modifying intervention.",
+    "status": "undecided",
+    "doi": "10.1001/jamaneurol.2022.2548"
+  },
+  {
+    "id": "study-037",
+    "title": "Polypharmacy and Adverse Drug Events in Older Adults: A Pharmacovigilance Cohort Study",
+    "authors": ["Masnoon, N.", "Chikwem, U.", "Söderström, L.", "Thillai, M."],
+    "year": 2021,
+    "abstract": "Background: Polypharmacy (≥5 medications) is highly prevalent in older adults and associated with adverse drug events (ADEs). Population-level pharmacovigilance data are underused. Methods: Linkage of primary care prescribing data, hospital admissions, and ADE reports for 112,840 adults aged ≥65 in Wales. Follow-up 5 years. Results: 61% of participants had polypharmacy. Each additional medication was associated with a 12% increase in ADE risk (IRR 1.12, 95% CI 1.09–1.15). Hyperpolypharmacy (≥10 medications) conferred a 3.4-fold increase in ADE-related hospitalisation. Anticholinergic burden score was the strongest predictor (IRR 1.48 per SD increase). Conclusion: Polypharmacy and anticholinergic burden drive ADE risk in older adults. Structured medication review protocols should be embedded in routine care.",
+    "status": "undecided",
+    "doi": "10.1136/bmjopen-2021-052516"
+  },
+  {
+    "id": "study-038",
+    "title": "Hepatitis C Elimination in High-Income Countries: What Has Worked and What Remains?",
+    "authors": ["Bruggmann, P.", "Akintola, T.", "Larsson, K.", "Dore, G."],
+    "year": 2023,
+    "abstract": "Background: Direct-acting antivirals (DAAs) have transformed HCV treatment and several high-income countries are approaching WHO elimination targets. We review progress, strategies, and remaining gaps. Methods: Systematic review of national HCV elimination programme data 2015–2023 from 22 high-income countries. Outcomes: diagnosis rates, treatment uptake, incidence trends. Results: Eight countries have achieved or are on track for WHO 2030 targets. Key enablers: unrestricted DAA access, decentralisation of treatment to primary care, harm reduction integration. Remaining gaps: awareness among migrants, people who inject drugs in rural areas, and Indigenous communities. Conclusion: HCV elimination is achievable with comprehensive strategies. Equity-focused approaches targeting marginalised populations are the critical unfinished business.",
+    "status": "undecided",
+    "doi": "10.1016/j.jhep.2023.03.022"
+  },
+  {
+    "id": "study-039",
+    "title": "Family-Based Treatment vs Individual CBT for Adolescent Anorexia Nervosa: Long-Term Follow-Up",
+    "authors": ["Lock, J.", "Adeyoye, B.", "Lindgren, M.", "Couturier, J."],
+    "year": 2021,
+    "abstract": "Objective: Family-based treatment (FBT) is recommended for adolescent anorexia nervosa (AN) but long-term comparative data vs individual CBT are limited. Design: 5-year follow-up of a multi-site RCT (n=164 adolescents). Original RCT compared FBT to adolescent-focused individual therapy (AFT). Outcomes at 5 years: full remission (EDE-Q, weight restoration), relapse, hospitalisation. Results: Full remission: 48% FBT vs 36% AFT (OR 1.64, 95% CI 0.92–2.92; p=0.09). Hospitalisation rates: 28% FBT vs 38% AFT (p=0.14). No significant differences reached, but trend favoured FBT. Conclusion: FBT maintains numerical advantage over AFT at 5 years but differences are not statistically significant. Both are legitimate treatment options. Moderator analyses suggest FBT advantages are strongest in younger adolescents.",
+    "status": "undecided",
+    "doi": "10.1176/appi.ajp.2021.20040490"
+  },
+  {
+    "id": "study-040",
+    "title": "Water, Sanitation and Hygiene Interventions and Child Diarrhoea: An Updated Meta-Analysis",
+    "authors": ["Wolf, J.", "Boakye-Yiadom, K.", "Prüss-Ustün, A.", "Clasen, T."],
+    "year": 2022,
+    "abstract": "Background: WASH interventions are a cornerstone of child health policy in LMICs, but effect sizes vary considerably across studies. We conducted an updated meta-analysis using a causal framework. Methods: Meta-analysis of RCTs, cluster-RCTs, and natural experiments (n=94 studies). Outcomes: all-cause diarrhoea incidence in children <5. Causal forest approach to investigate heterogeneity. Results: Pooled rate ratio for diarrhoea: 0.78 (95% CI 0.73–0.83). Largest effects from combined water + sanitation + hygiene interventions (RR 0.68). Open-defecation-free campaigns alone showed smaller effects (RR 0.88). Baseline diarrhoea burden moderated effect size (larger effects in higher-burden settings). Conclusions: WASH significantly reduces childhood diarrhoea; combined interventions are most effective. Targeting high-burden settings maximises public health impact.",
+    "status": "undecided",
+    "doi": "10.1016/S2214-109X(22)00278-0"
+  },
+  {
+    "id": "study-041",
+    "title": "Chronic Pain Self-Management Education: A Component Network Meta-Analysis",
+    "authors": ["Williams, A.", "Osaghae, D.", "Linton, S.", "Sturgeon, J."],
+    "year": 2022,
+    "abstract": "Background: Self-management education (SME) programmes for chronic pain vary in content and delivery. We used component network meta-analysis (cNMA) to identify the most effective active ingredients. Methods: cNMA of 87 RCTs (n=14,321 adults with non-cancer chronic pain). Components: education, cognitive-coping training, relaxation, exercise, peer support, mindfulness, goal setting. Primary outcomes: pain intensity and disability. Results: Cognitive-coping training (contribution OR to improvement 1.42) and exercise components (OR 1.38) showed largest independent contributions. Mindfulness added minimal benefit when combined with cognitive-coping. Peer support enhanced long-term maintenance (3.6-month effect: OR 1.29). Conclusion: SME programmes should prioritise cognitive-coping and exercise. Peer support components may support long-term maintenance.",
+    "status": "undecided",
+    "doi": "10.1016/j.jpain.2022.04.003"
+  },
+  {
+    "id": "study-042",
+    "title": "Antimicrobial Stewardship Programmes and Antibiotic Resistance Rates in Hospitals: A Quasi-Experimental Study",
+    "authors": ["Dyar, O.", "Eze, A.", "Sigurdsson, M.", "Ombelet, S."],
+    "year": 2021,
+    "abstract": "Background: Antimicrobial stewardship programmes (ASPs) aim to optimise antibiotic use and reduce resistance. Hospital-level evidence from controlled studies is limited. Methods: Interrupted time series analysis of antibiotic prescribing and resistance data from 48 hospitals before and after ASP implementation (2014–2020). Primary outcome: defined daily doses (DDD) per 100 bed-days. Secondary: incidence of ESBL-producing Enterobacteriaceae. Results: ASP implementation was associated with a significant reduction in total antibiotic use (−12.4 DDD/100 bed-days, 95% CI −14.8 to −9.9). ESBL incidence declined 18 months post-implementation (RR 0.74, 95% CI 0.62–0.88). Effects were sustained at 3 years. Conclusion: ASPs are effective at reducing antibiotic use and resistance rates in hospital settings. Multi-disciplinary implementation and sustained monitoring are critical.",
+    "status": "undecided",
+    "doi": "10.1093/jac/dkab245"
+  },
+  {
+    "id": "study-043",
+    "title": "Group Antenatal Care and Maternal Outcomes in Low-Resource Settings: Multi-Country RCT",
+    "authors": ["Lori, J.", "Enemuo, C.", "Lindstrøm, M.", "Bhatt, P."],
+    "year": 2023,
+    "abstract": "Background: Group antenatal care (GANC) provides clinical care and peer support simultaneously. Evidence in low-resource settings from multi-country trials is limited. Methods: Cluster RCT in 48 health facilities in Nigeria, Malawi, and Bangladesh. Facilities randomised to GANC (Centering Pregnancy model) or standard individual ANC. Primary outcomes: maternal complications, skilled birth attendance, early breastfeeding initiation. Results: GANC significantly improved skilled birth attendance (84% vs 71%; OR 2.14, 95% CI 1.58–2.91) and early breastfeeding initiation (78% vs 64%; OR 2.02, 95% CI 1.48–2.76). Maternal complications rates did not differ. Overall care satisfaction was higher in GANC. Conclusion: GANC improves key maternal care behaviours in low-resource settings. Scale-up requires adaptation to local cultural contexts and health system capacity.",
+    "status": "undecided",
+    "doi": "10.1136/bmjgh-2023-011986"
+  },
+  {
+    "id": "study-044",
+    "title": "Effectiveness of E-Cigarettes for Smoking Cessation: An Updated Cochrane Review",
+    "authors": ["Hartmann-Boyce, J.", "Akpakwu, T.", "Butler, A.", "Lindson, N."],
+    "year": 2022,
+    "abstract": "Background: E-cigarettes are increasingly used for smoking cessation but evidence on long-term effectiveness is evolving. Methods: Updated Cochrane review including RCTs and prospective cohort studies through March 2022. Primary outcome: abstinence at 6 months (biochemically verified). Results: 24 RCTs and 4 cohort studies were included. E-cigarettes with nicotine were significantly more effective than nicotine replacement therapy (NRT) for cessation (RR 1.63, 95% CI 1.30–2.04) and more effective than non-nicotine e-cigarettes (RR 1.94, 95% CI 1.21–3.13). Respiratory adverse events were more common with e-cigarettes than NRT. Long-term safety data (>2 years) remain limited. Conclusion: Nicotine e-cigarettes are superior to NRT for smoking cessation. Long-term safety requires continued surveillance. Policy environments should facilitate their use as cessation aids.",
+    "status": "undecided",
+    "doi": "10.1002/14651858.CD010216.pub7"
+  },
+  {
+    "id": "study-045",
+    "title": "Socioeconomic Determinants of COVID-19 Mortality: A Geospatial Analysis Across 47 Countries",
+    "authors": ["Bambra, C.", "Gibson-Moore, H.", "Friel, S.", "Maani, N."],
+    "year": 2021,
+    "abstract": "Background: COVID-19 mortality appeared socially patterned but comparative multi-country evidence is limited. We conducted a geospatial analysis examining socioeconomic determinants of COVID-19 mortality across 47 countries. Methods: Country-level ecological study using WHO mortality data (2020–2021) and World Bank socioeconomic indicators. Primary exposure: Gini coefficient, GDP per capita, healthcare access index. Results: Gini coefficient was the strongest predictor of COVID-19 mortality (β 0.41, p<0.001 in multivariate model). GDP per capita was inversely associated. Healthcare access index modified the effect of inequality. Conclusion: Income inequality is strongly associated with COVID-19 mortality across nations. Universal healthcare and social protection systems appear to buffer the mortality impact of inequality.",
+    "status": "undecided",
+    "doi": "10.1016/S2468-2667(21)00079-7"
+  },
+  {
+    "id": "study-046",
+    "title": "Probiotic Supplementation for Acute Gastroenteritis in Children: An Individual Participant Data Meta-Analysis",
+    "authors": ["Guarino, A.", "Osei-Kwasi, K.", "Agostoni, C.", "Lo Vecchio, A."],
+    "year": 2020,
+    "abstract": "Background: Probiotics are widely used for childhood acute gastroenteritis (AGE). Effect sizes in meta-analyses have been heterogeneous. Methods: IPD meta-analysis of 22 RCTs (n=4,412 children aged 3 months–6 years with AGE). Primary outcomes: duration of diarrhoea, hospitalisation, diarrhoea resolution at 72 hours. Results: Pooled IPD analysis showed no significant reduction in diarrhoea duration (−0.1 days, 95% CI −0.4 to 0.2) or hospitalisation rate. Subgroup by probiotic strain: Lactobacillus GG showed marginal effect (−0.5 days, p=0.03) not maintained after multiple testing correction. Conclusion: Probiotics do not have clinically meaningful effects on acute childhood gastroenteritis. Routine use in this indication is not supported by current evidence.",
+    "status": "undecided",
+    "doi": "10.1001/jama.2020.3994"
+  },
+  {
+    "id": "study-047",
+    "title": "Interprofessional Education and Collaborative Practice in Hospital Settings: A Systematic Review",
+    "authors": ["Reeves, S.", "Pelone, F.", "Harrison, R.", "Goldman, J."],
+    "year": 2021,
+    "abstract": "Background: Interprofessional education (IPE) aims to foster collaboration among health professionals and improve patient outcomes. Evidence for IPE's impact in hospital settings is limited. Methods: Systematic review of IPE intervention studies with clinical outcomes (n=21 studies). Setting: acute hospital care. Outcomes: patient safety events, length of stay, staff attitudes, team communication. Results: 4/7 studies measuring patient safety events showed significant improvements. Length of stay was reduced in 2/4 relevant studies. Staff reported improved collaboration attitudes consistently. Methodological quality was low-to-moderate. Conclusion: IPE shows promising effects on safety and teamwork in hospital settings. Rigorous designs and outcome standardisation are needed to build the evidence base.",
+    "status": "undecided",
+    "doi": "10.1002/14651858.CD002213.pub3"
+  },
+  {
+    "id": "study-048",
+    "title": "Community-Based Rehabilitation for Adults with Moderate-to-Severe Traumatic Brain Injury",
+    "authors": ["Ponsford, J.", "Bayley, M.", "Ekuma-Nkama, C.", "Tenovuo, O."],
+    "year": 2022,
+    "abstract": "Background: Long-term rehabilitation needs of adults with moderate-to-severe TBI often exceed what specialist inpatient services can provide. Community-based rehabilitation (CBR) models may bridge this gap. Methods: Systematic review (22 RCTs, n=2,840) of CBR programmes vs standard community care. Outcomes: functional independence (FIM), community participation, depression. Results: CBR improved functional independence (SMD 0.42, 95% CI 0.26–0.58) and community participation (SMD 0.31, 95% CI 0.12–0.50). Depression was reduced significantly in 3/6 measuring studies. Effects were maintained at 12-month follow-up. Conclusion: CBR programmes are effective for adults with moderate-to-severe TBI. Outpatient and home-based models showed equivalent effects. Accessible, sustainable CBR should be part of national TBI care pathways.",
+    "status": "undecided",
+    "doi": "10.1089/neu.2022.0079"
+  },
+  {
+    "id": "study-049",
+    "title": "Maternal Nutrition Supplementation and Preterm Birth: A Systematic Review of Combined Interventions",
+    "authors": ["Ohuma, E.", "Asare, P.", "da Costa, R.", "Bhatt, D."],
+    "year": 2023,
+    "abstract": "Background: Preterm birth (PTB) is the leading cause of neonatal mortality. Nutritional deficiencies have been linked to PTB risk. Combined nutritional supplementation may be more effective than single micronutrients. Methods: Systematic review of RCTs testing combined nutritional supplementation (≥2 micronutrients or macronutrient + micronutrient) in pregnancy. Outcome: PTB (<37 weeks). 31 RCTs (n=86,420) were included. Results: Combined multiple micronutrient supplementation (MMS) reduced PTB by 12% (RR 0.88, 95% CI 0.82–0.94). Effects were largest in women with low baseline nutritional status. Omega-3 combined with MMS showed additive effect in 3 trials. Conclusion: MMS reduces preterm birth particularly in nutritionally vulnerable populations. Global maternal nutrition programmes should shift from single-nutrient to combined supplementation strategies.",
+    "status": "undecided",
+    "doi": "10.1016/S0140-6736(23)00311-4"
+  },
+  {
+    "id": "study-050",
+    "title": "Occupational Exposure to Particulate Matter and Cardiovascular Risk: A Systematic Review of Occupational Cohort Studies",
+    "authors": ["Hvidtfeldt, U.", "Osei-Bonsu, J.", "Hammitt, L.", "Peters, A."],
+    "year": 2021,
+    "abstract": "Background: Outdoor ambient air pollution is a recognized cardiovascular risk factor. Evidence for occupational PM exposure is less systematically reviewed. Methods: Systematic review of prospective occupational cohort studies with cardiovascular mortality or incident disease as outcomes (n=29 studies). Meta-analysis where possible. Results: High occupational PM2.5 exposure was associated with a 24% increase in cardiovascular mortality (RR 1.24, 95% CI 1.14–1.35). Associations were consistent for ischaemic heart disease and stroke. Miners, construction workers, and traffic workers showed highest risk. No clear threshold was identified. Conclusion: Occupational PM exposure is associated with significant cardiovascular risk. Workplace exposure standards may need updating to reflect evidence of effects below current permissible limits.",
+    "status": "undecided",
+    "doi": "10.1136/oem-2021-107714"
+  }
+]

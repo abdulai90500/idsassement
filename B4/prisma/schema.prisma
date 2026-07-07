@@ -1,0 +1,129 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─── Study ───────────────────────────────────────────────────────────────────
+// A research study to be screened (imported from OpenAlex, PubMed, or uploaded).
+
+model Study {
+  id          String   @id @default(cuid())
+  title       String
+  abstract    String?
+  authors     String[] // Stored as PostgreSQL text array
+  year        Int?
+  doi         String?  @unique
+  sourceDb    String?  // "openalex" | "pubmed" | "manual"
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  assignments Assignment[]
+  conflicts   Conflict[]
+
+  @@index([doi])
+  @@map("studies")
+}
+
+// ─── Reviewer ─────────────────────────────────────────────────────────────────
+// A person who screens studies. Role determines permissions.
+
+model Reviewer {
+  id        String   @id @default(cuid())
+  name      String
+  email     String   @unique
+  role      ReviewerRole @default(REVIEWER)
+  createdAt DateTime @default(now())
+
+  assignments Assignment[]
+  resolvedConflicts Conflict[] @relation("ConflictResolver")
+
+  @@map("reviewers")
+}
+
+enum ReviewerRole {
+  REVIEWER    // Standard screener
+  LEAD        // Can resolve conflicts
+  ADMIN
+}
+
+// ─── Assignment ───────────────────────────────────────────────────────────────
+// Links a study to a reviewer for a specific screening stage.
+// Each study gets at least 2 assignments for inter-rater reliability.
+
+model Assignment {
+  id         String          @id @default(cuid())
+  studyId    String
+  reviewerId String
+  stage      ScreeningStage  @default(TITLE_ABSTRACT)
+  createdAt  DateTime        @default(now())
+
+  study    Study    @relation(fields: [studyId], references: [id])
+  reviewer Reviewer @relation(fields: [reviewerId], references: [id])
+  decision Decision?
+
+  @@unique([studyId, reviewerId, stage]) // One decision per reviewer per study per stage
+  @@index([reviewerId, stage])
+  @@map("assignments")
+}
+
+enum ScreeningStage {
+  TITLE_ABSTRACT
+  FULL_TEXT
+}
+
+// ─── Decision ─────────────────────────────────────────────────────────────────
+// A reviewer's verdict on an assignment.
+
+model Decision {
+  id           String   @id @default(cuid())
+  assignmentId String   @unique
+  verdict      Verdict
+  note         String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  assignment Assignment @relation(fields: [assignmentId], references: [id])
+
+  conflictAsDecision1 Conflict[] @relation("ConflictDecision1")
+  conflictAsDecision2 Conflict[] @relation("ConflictDecision2")
+
+  @@map("decisions")
+}
+
+enum Verdict {
+  INCLUDE
+  EXCLUDE
+  UNCERTAIN
+}
+
+// ─── Conflict ─────────────────────────────────────────────────────────────────
+// Created automatically when two decisions on the same study disagree.
+// A LEAD reviewer resolves the conflict by recording a final verdict.
+
+model Conflict {
+  id               String    @id @default(cuid())
+  studyId          String
+  stage            ScreeningStage
+  decision1Id      String
+  decision2Id      String
+  resolvedVerdict  Verdict?
+  resolvedById     String?
+  resolvedAt       DateTime?
+  createdAt        DateTime  @default(now())
+
+  study       Study    @relation(fields: [studyId], references: [id])
+  decision1   Decision @relation("ConflictDecision1", fields: [decision1Id], references: [id])
+  decision2   Decision @relation("ConflictDecision2", fields: [decision2Id], references: [id])
+  resolvedBy  Reviewer? @relation("ConflictResolver", fields: [resolvedById], references: [id])
+
+  @@unique([studyId, stage, decision1Id, decision2Id])
+  @@index([studyId, stage])
+  @@map("conflicts")
+}

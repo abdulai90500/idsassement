@@ -1,0 +1,18 @@
+{
+  "topic": "Interventions for common mental and physical health conditions in clinical or community settings",
+  "inclusion": [
+    "Studies involving human participants",
+    "Randomised controlled trials, systematic reviews, meta-analyses, or observational cohort studies",
+    "Studies reporting at least one clinical health outcome (e.g., symptom severity, mortality, hospitalisation, quality of life)",
+    "Studies on mental health, cardiovascular disease, diabetes, infectious disease, maternal health, or chronic pain",
+    "Studies with a defined intervention (pharmacological, behavioural, digital, or structural)"
+  ],
+  "exclusion": [
+    "Studies not related to health or medicine",
+    "Studies primarily about economics, finance, technology, or education (unless the primary outcome is a health measure)",
+    "Animal studies or laboratory studies without human participants",
+    "Studies with purely environmental or social outcomes and no clinical health endpoint",
+    "Conference abstracts without peer-reviewed publication",
+    "Opinion pieces, editorials, or commentaries without original data"
+  ]
+}

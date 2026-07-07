@@ -1,0 +1,122 @@
+[
+  {
+    "id": "abs-001",
+    "title": "CBT for Adolescent Depression",
+    "abstract": "We conducted a randomised controlled trial of cognitive behavioural therapy (CBT) in 312 adolescents aged 12-17 diagnosed with major depressive disorder. Participants received 16 sessions of CBT over 20 weeks. Primary outcome was change in CDRS-R score. CBT produced a mean CDRS-R reduction of 18.4 points versus 6.1 in the waitlist control (p<0.001). Remission was achieved in 46% of CBT participants. The intervention was safe with no serious adverse events.",
+    "expectedVerdict": "include"
+  },
+  {
+    "id": "abs-002",
+    "title": "Economic Impact of Global Chip Shortage on Semiconductor Supply Chain",
+    "abstract": "This paper analyses the economic impact of the 2020-2022 global semiconductor shortage on automotive and consumer electronics supply chains. Using input-output modelling, we estimate GDP losses of $500 billion across G20 economies. Policy recommendations include diversified sourcing strategies and government investment in domestic fab capacity.",
+    "expectedVerdict": "exclude"
+  },
+  {
+    "id": "abs-003",
+    "title": "Vitamin D and Respiratory Infections",
+    "abstract": "An individual patient data meta-analysis of 25 RCTs (n=11,321) testing vitamin D supplementation against acute respiratory tract infections. Supplementation significantly reduced infection risk overall (aOR 0.88). Benefit was largest in participants with baseline 25-hydroxyvitamin D below 25 nmol/L. Daily or weekly dosing was more effective than bolus dosing.",
+    "expectedVerdict": "include"
+  },
+  {
+    "id": "abs-004",
+    "title": "Machine Learning for Stock Price Prediction",
+    "abstract": "We apply long short-term memory (LSTM) neural networks to predict daily closing prices of S&P 500 stocks. Training on 10 years of historical data with technical indicators, the model achieves a mean absolute percentage error of 2.3%. Backtesting shows a simulated annualised return of 14% versus a buy-and-hold benchmark of 11%.",
+    "expectedVerdict": "exclude"
+  },
+  {
+    "id": "abs-005",
+    "title": "Mindfulness-Based Stress Reduction for Nurse Burnout",
+    "abstract": "A cluster RCT in 24 hospital wards (n=412 nurses) compared an 8-week MBSR programme to usual care. MBSR significantly reduced emotional exhaustion (MBI subscale) by 6.8 points versus 1.2 in controls (95% CI 4.1-9.5). No significant effect on absenteeism. Attrition was 14% in the intervention arm.",
+    "expectedVerdict": "include"
+  },
+  {
+    "id": "abs-006",
+    "title": "Social Prescribing for Mild Depression in Primary Care",
+    "abstract": "A pragmatic RCT tested social prescribing (linking patients to community activities) versus usual care in 1,824 adults with mild-to-moderate depression or anxiety across 42 GP practices. No significant difference was found in the primary composite outcome (GAD-7 + PHQ-9) at 6 months. Significant improvements were noted in social connectedness and WHO-5 wellbeing.",
+    "expectedVerdict": "uncertain"
+  },
+  {
+    "id": "abs-007",
+    "title": "AI for Diabetic Retinopathy Screening",
+    "abstract": "This retrospective analysis evaluated an AI algorithm (IDx-DR) on 248,390 retinal images from 84,312 adults with diabetes. Overall sensitivity was 88.4% and specificity 92.1%. Performance was significantly lower in Asian and Black patients. Image quality failure rates were higher in older patients.",
+    "expectedVerdict": "include"
+  },
+  {
+    "id": "abs-008",
+    "title": "Effects of Background Music Genre on Office Worker Productivity",
+    "abstract": "A within-subjects experiment with 60 office workers tested the effects of classical, jazz, pop, and silence conditions on coding task performance and self-reported focus. Results showed no statistically significant differences in task completion time or error rate across conditions, though subjective preference for classical music was highest.",
+    "expectedVerdict": "exclude"
+  },
+  {
+    "id": "abs-009",
+    "title": "Metformin and All-Cause Mortality in Type 2 Diabetes",
+    "abstract": "A retrospective cohort study (n=48,316) using UK Biobank linked primary care and hospital records examined metformin use and all-cause mortality over a median 7.4-year follow-up. After multivariable adjustment, metformin was associated with 24% lower mortality risk (HR 0.76, 95% CI 0.71-0.82). Results were consistent across age, sex, and eGFR subgroups.",
+    "expectedVerdict": "include"
+  },
+  {
+    "id": "abs-010",
+    "title": "Blockchain for Agricultural Supply Chain Transparency",
+    "abstract": "We present a proof-of-concept blockchain system for tracking food products from farm to consumer. A pilot with 12 mango farms in Ghana demonstrated 98% scan compliance and full traceability within 48 hours of farm entry. Smart contracts automatically triggered payment upon delivery confirmation, reducing transaction time by 60%.",
+    "expectedVerdict": "exclude"
+  },
+  {
+    "id": "abs-011",
+    "title": "Community Health Worker Hypertension Programmes in Sub-Saharan Africa",
+    "abstract": "A systematic review of 16 studies (10 RCTs) of CHW interventions for hypertension control in sub-Saharan Africa found significantly improved blood pressure control (OR 2.12, 95% CI 1.68-2.67) and medication adherence. Effects were larger in urban than rural settings. Most studies were pilots with short follow-up.",
+    "expectedVerdict": "include"
+  },
+  {
+    "id": "abs-012",
+    "title": "Gamification of University Physics Education",
+    "abstract": "This quasi-experimental study compared a gamified physics curriculum (leaderboards, badges, quest-based problem sets) against traditional lectures in 230 first-year engineering students. Gamified students showed higher engagement scores but no significant difference in final exam performance. Intrinsic motivation increased in high-performing students only.",
+    "expectedVerdict": "exclude"
+  },
+  {
+    "id": "abs-013",
+    "title": "Long-COVID Symptom Trajectories: 18-Month Follow-Up",
+    "abstract": "A prospective cohort of 3,241 adults with confirmed COVID-19 was followed for 18 months. Latent class analysis identified four trajectories: rapid recovery (52%), persistent fatigue-dominant (24%), fluctuating multi-symptom (16%), and progressive worsening (8%). Vaccination was associated with lower odds of persistent class membership (OR 0.58).",
+    "expectedVerdict": "include"
+  },
+  {
+    "id": "abs-014",
+    "title": "Urban Green Space and Real Estate Values",
+    "abstract": "Using hedonic pricing models on 125,000 property transactions in London (2010-2020), we estimate that proximity to parks within 400 metres adds an average of 4.2% to residential property values. Effects were stronger in lower-income boroughs, suggesting green space investment may partially counteract spatial inequality in housing markets.",
+    "expectedVerdict": "exclude"
+  },
+  {
+    "id": "abs-015",
+    "title": "Probiotic Supplementation for Childhood Acute Gastroenteritis",
+    "abstract": "An IPD meta-analysis of 22 RCTs (n=4,412 children aged 3 months-6 years) found no significant reduction in diarrhoea duration (-0.1 days, 95% CI -0.4 to 0.2) or hospitalisation from probiotic supplementation. Lactobacillus GG showed a marginal effect that did not survive multiple testing correction.",
+    "expectedVerdict": "include"
+  },
+  {
+    "id": "abs-016",
+    "title": "Ketamine for Treatment-Resistant Depression",
+    "abstract": "A network meta-analysis of 38 RCTs (n=2,891) comparing ketamine formulations in treatment-resistant depression. IV ketamine showed highest response at 24 hours (OR 7.4). Intranasal esketamine maintained effect to 7 days (OR 3.1). Dissociative side effects were most common with IV route.",
+    "expectedVerdict": "include"
+  },
+  {
+    "id": "abs-017",
+    "title": "Impact of Minimum Wage Increases on Small Business Employment",
+    "abstract": "This study uses difference-in-differences estimation across 50 US states from 2010-2022 to analyse the employment effects of minimum wage increases. Results suggest minimal negative employment effects in high-wage sectors but significant reductions (1-3% per $1 increase) in restaurant and retail employment, particularly for teenage workers.",
+    "expectedVerdict": "exclude"
+  },
+  {
+    "id": "abs-018",
+    "title": "Telemedicine vs In-Person Physiotherapy for Chronic Low Back Pain",
+    "abstract": "A non-inferiority RCT (n=488 adults across 4 countries) compared telemedicine physiotherapy to face-to-face care for chronic low back pain. Mean NRS pain reduction was identical in both groups (-2.4 points) and within the 1.0-point non-inferiority margin. Patient satisfaction was marginally higher in the in-person group.",
+    "expectedVerdict": "include"
+  },
+  {
+    "id": "abs-019",
+    "title": "Social Media Use and Political Polarisation",
+    "abstract": "A longitudinal survey study of 3,600 US adults (2018-2022) examined the relationship between Facebook and Twitter usage and measures of political affective polarisation. High social media use was associated with greater polarisation (β = 0.18, p<0.001) even after controlling for baseline attitudes. Causal mechanisms remain unclear.",
+    "expectedVerdict": "exclude"
+  },
+  {
+    "id": "abs-020",
+    "title": "School-Based Nutrition Education and Childhood Obesity",
+    "abstract": "A systematic review and meta-analysis of 34 RCTs (n=28,430 children aged 5-18) found that school nutrition education reduced BMI z-score by -0.11 (95% CI -0.19 to -0.04). Effects were larger in primary-school children and programmes that involved parents. Fruit and vegetable intake outcomes showed stronger effects than anthropometric measures.",
+    "expectedVerdict": "include"
+  }
+]

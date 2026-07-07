@@ -1,0 +1,7 @@
+node_modules/
+.env
+dist/
+*.log
+
+# A1 AI audit logs — gitignore the content but commit the directory
+A1/logs/*.jsonl
