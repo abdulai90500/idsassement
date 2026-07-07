@@ -1,6 +1,6 @@
 # Sabi Core — Take-Home Assessment
 
-**Candidate:** [Your Name]  
+**Candidate:** abdulai sillah kamara  
 **Date:** July 2026  
 **Questions answered:** F1, B4, A1
 
