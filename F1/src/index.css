@@ -582,6 +582,123 @@ body {
   outline-offset: 2px;
 }
 
+/* ── Blue Theme Overrides (Sidebar, Header, Footer) ── */
+.app-header {
+  background: #1e3a8a;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  color: #eff6ff;
+}
+
+.app-logo h1 {
+  color: #ffffff;
+}
+
+.app-logo span {
+  color: #bfdbfe;
+}
+
+.progress-meta {
+  color: #bfdbfe;
+}
+
+.progress-bar-outer {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.kbd-hint {
+  color: #bfdbfe;
+}
+
+.kbd {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+}
+
+.study-list-panel {
+  background: #1e40af;
+  border-right: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.filter-bar {
+  background: #1e3a8a;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.filter-chip {
+  border-color: rgba(255, 255, 255, 0.2);
+  color: #bfdbfe;
+}
+
+.filter-chip:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+.filter-chip.active {
+  background: #2563eb;
+  border-color: #3b82f6;
+  color: #ffffff;
+}
+
+.study-list-item {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.study-list-item:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.study-list-item.active {
+  background: rgba(255, 255, 255, 0.12);
+  border-left: 3px solid #60a5fa;
+}
+
+.study-index {
+  color: #93c5fd;
+}
+
+.study-list-title {
+  color: #ffffff;
+}
+
+.study-list-authors {
+  color: #bfdbfe;
+}
+
+.decision-zone {
+  background: #1e3a8a;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.decision-label {
+  color: #bfdbfe;
+}
+
+.decision-btn {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.15);
+  color: #bfdbfe;
+}
+
+.decision-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+.decision-btn .shortcut {
+  background: rgba(255, 255, 255, 0.1);
+  color: #bfdbfe;
+}
+
+.decision-btn.active {
+  color: #ffffff !important;
+}
+
+.nav-controls span {
+  color: #bfdbfe !important;
+}
+
 /* ── Responsive ── */
 @media (max-width: 768px) {
   .study-list-panel {
