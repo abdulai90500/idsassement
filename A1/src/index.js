@@ -82,15 +82,24 @@ async function main() {
     })
   }
 
-  // ── Summary ──────────────────────────────────────────────────────────────
+  // ── Summary & Evaluation Harness (A4) ────────────────────────────────────
   if (results.length > 1) {
     const correct = results.filter(r => r.correct).length
     const pct     = Math.round((correct / results.length) * 100)
 
-    console.log(clr.dim('─'.repeat(72)))
-    console.log(clr.bold(`\nResults: ${correct}/${results.length} correct (${pct}%)\n`))
+    // Calculate Precision & Recall for the "include" class
+    const tp = results.filter(r => r.expected === 'include' && r.predicted === 'include').length
+    const fp = results.filter(r => r.expected !== 'include' && r.predicted === 'include').length
+    const fn = results.filter(r => r.expected === 'include' && r.predicted !== 'include').length
 
-    // Confusion matrix (simple)
+    const precision = tp + fp > 0 ? (tp / (tp + fp) * 100).toFixed(1) : '0.0'
+    const recall    = tp + fn > 0 ? (tp / (tp + fn) * 100).toFixed(1) : '0.0'
+
+    console.log(clr.dim('─'.repeat(72)))
+    console.log(clr.bold(`\nResults: ${correct}/${results.length} correct (${pct}%)`))
+    console.log(clr.bold(`Precision (include): ${precision}%  |  Recall (include): ${recall}%\n`))
+
+    // Confusion matrix
     const labels = ['include', 'exclude', 'uncertain']
     console.log(clr.bold('Confusion matrix (rows=expected, cols=predicted):'))
     console.log(`${''.padEnd(12)}` + labels.map(l => l.padEnd(12)).join(''))

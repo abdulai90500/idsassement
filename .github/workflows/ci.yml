@@ -1,0 +1,45 @@
+name: Sabi Core Assessment CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x]
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+        cache-dependency-path: |
+          F1/package-lock.json
+          B4/package-lock.json
+          A1/package-lock.json
+
+    - name: F1 Frontend - Install & Build
+      working-directory: ./F1
+      run: |
+        npm ci
+        npm run build
+
+    - name: B4 Backend - Install & Test
+      working-directory: ./B4
+      run: |
+        npm ci
+        npm test
+
+    - name: A1 AI Assistant - Install
+      working-directory: ./A1
+      run: |
+        npm ci

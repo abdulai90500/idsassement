@@ -1,3 +1,4 @@
+import { motion } from 'framer-motion'
 import DecisionButtons from './DecisionButtons'
 
 export default function StudyCard({ study, index, onDecide }) {
@@ -17,8 +18,15 @@ export default function StudyCard({ study, index, onDecide }) {
     : `${study.authors.slice(0, 3).join(', ')} et al.`
 
   return (
-    <article className="study-detail-panel" aria-label={`Study detail: ${study.title}`}>
-      <div className="study-detail-scroll" key={study.id}>
+    <motion.article 
+      className="study-detail-panel" 
+      aria-label={`Study detail: ${study.title}`}
+      initial={{ opacity: 0, x: 20 }}
+      animate={{ opacity: 1, x: 0 }}
+      transition={{ duration: 0.3 }}
+      key={study.id} // Re-animate when study changes
+    >
+      <div className="study-detail-scroll">
         <div className="study-number-label">STUDY {String(index + 1).padStart(2, '0')} OF 50</div>
 
         <h2 className="study-detail-title" id="study-title">
@@ -50,9 +58,14 @@ export default function StudyCard({ study, index, onDecide }) {
         <span className="decision-label">
           Your decision
           {study.status !== 'undecided' && (
-            <span className={`status-badge ${study.status}`} style={{ marginLeft: '10px' }}>
+            <motion.span 
+              className={`status-badge ${study.status}`} 
+              style={{ marginLeft: '10px' }}
+              initial={{ scale: 0.8, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+            >
               {study.status}
-            </span>
+            </motion.span>
           )}
         </span>
         <DecisionButtons
@@ -66,6 +79,7 @@ export default function StudyCard({ study, index, onDecide }) {
           </span>
         </div>
       </footer>
-    </article>
+    </motion.article>
   )
 }
+

@@ -1,3 +1,5 @@
+import { motion } from 'framer-motion'
+
 const VERDICTS = [
   {
     key: 'include',
@@ -26,8 +28,10 @@ export default function DecisionButtons({ currentStatus, onDecide, studyId }) {
   return (
     <div className="decision-buttons" role="group" aria-label="Screening decision">
       {VERDICTS.map(v => (
-        <button
+        <motion.button
           key={v.key}
+          whileHover={{ scale: 1.02 }}
+          whileTap={{ scale: 0.95 }}
           className={`decision-btn ${v.key} ${currentStatus === v.key ? 'active' : ''}`}
           onClick={() => onDecide(studyId, currentStatus === v.key ? 'undecided' : v.key)}
           aria-pressed={currentStatus === v.key}
@@ -38,7 +42,7 @@ export default function DecisionButtons({ currentStatus, onDecide, studyId }) {
           <span aria-hidden="true">{v.icon}</span>
           {v.label}
           <span className="shortcut" aria-hidden="true">{v.shortcut}</span>
-        </button>
+        </motion.button>
       ))}
     </div>
   )
